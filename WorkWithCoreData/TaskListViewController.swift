@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TaskListViewController.swift
 //  WorkWithCoreData
 //
 //  Created by Valeria Khristinina on 11/03/2020.
@@ -8,11 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TaskListViewController: UITableViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
-		// Do any additional setup after loading the view.
 	}
 
 
